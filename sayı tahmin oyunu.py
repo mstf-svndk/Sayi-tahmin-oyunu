@@ -10,7 +10,7 @@ print("""
 ********************************************************************""")
 
 rasgele_sayı=random.randint(1,100)
-tahmin_hakkı=7
+tahmin_hakkı=5
 kullanıcı=input("İsminizi Girin:")
 while True:
 	tahmin=int(input("Tahmin Giriniz:"))	
